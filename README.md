@@ -58,3 +58,4 @@ Repository: A repository on Github is a location where your relevant rojects are
 
 References:
 https://www.atlassian.com/git
+https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html#ws_getting_started_open_project
